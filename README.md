@@ -4,6 +4,8 @@
 
 ## Christmas Project
 
+<img width="512" alt="image" src="https://user-images.githubusercontent.com/47660338/71325052-96f95c00-252a-11ea-96ea-f12775196f77.png">
+
 ### 어떤 프로젝트인가
 크리스마스를 보내는 장소에 적절한 분위기 조성
 
