@@ -34,16 +34,16 @@
 
 ## References
 
-1. 크리스마스 캐럴 노트 및 박자
+* 크리스마스 캐럴 노트 및 박자
 https://create.arduino.cc/projecthub/joshi/piezo-christmas-songs-fd1ae9
 
-2. 1열 7세그먼트 LED 제어 방법
+* 1열 7세그먼트 LED 제어 방법
 http://blog.daum.net/_blog/BlogTypeView.do?blogid=02XGV&articleno=13720483
 
-3. COSE395 강의 자료
+* COSE395 강의 자료
 
 차이점
     
-* *주어진 NOTES와 DURATION을 이용하여 리모콘을 통해 제어
-* 노래가 끝나고 별다른 조작이 없다면 이전 노래를 반복 재생
-* *박자에 맞춰 LED 점등
+1. 주어진 NOTES와 DURATION을 이용하여 리모콘을 통해 제어
+2. 노래가 끝나고 별다른 조작이 없다면 이전 노래를 반복 재생
+3. 박자에 맞춰 LED 점등
